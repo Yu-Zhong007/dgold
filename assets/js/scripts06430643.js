@@ -1333,7 +1333,7 @@ NioApp = (function (NioApp, $, window, document) {
 
 /* Smart Contract Address */
 function copyToClickBoard() {
-  var content = "4Yz5zByTwnVe46AXD6hsrccbq4TKLyih2xRqPyLBDT1P";
+  var content = "mmp7jr8Ke4zxnWAfAhoUf3JhDRTWx9zWt8D9ngjpump";
 
   navigator.clipboard
     .writeText(content)
